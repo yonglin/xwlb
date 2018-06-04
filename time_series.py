@@ -31,6 +31,12 @@ py.init_notebook_mode(connected=True)
 ls
 
 
+# In[3]:
+
+
+print('testing')
+
+
 # In[4]:
 
 
