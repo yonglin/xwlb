@@ -25,7 +25,7 @@ import plotly.graph_objs as go
 py.init_notebook_mode(connected=True)
 
 
-# In[3]:
+# In[1]:
 
 
 ls
@@ -965,6 +965,12 @@ mytext = re.sub('进入', '', mytext)
 
 
 #https://amueller.github.io/word_cloud/
+
+
+# In[35]:
+
+
+import nltk
 
 
 # In[20]:
